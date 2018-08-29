@@ -1,0 +1,6 @@
+-I./
+-I./gnupg
+-I./gnupg/include
+-I./gnupg/util
+-I./gnupg/cipher
+-I./gnupg/g10
